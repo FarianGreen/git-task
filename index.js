@@ -1,1 +1,1 @@
-console.log("Hello Pavel");
+console.log("Hello Pavel. Its task 2");
